@@ -1,7 +1,7 @@
 # Independent_Research
 
 ## Introduction
-Since the end of highschool, I've appreciated the practice of autodidacticism. Thus, I have finally decided to start my own repository of independent research projects to practice both implementation and theory. Hopefully, if you've stumbled upon my repository by accident or have come from LinkedIn, I hope you find this page to be insightful in some way!
+Since the end of highschool, I've appreciated the practice of autodidacticism. Thus, I have finally decided to start my own repository of independent research projects to practice both implementation and theory. Hopefully, if you've stumbled upon my repository by accident or have come from LinkedIn, you find this page to be insightful in some way!
 
 ## 6.S085 Statistics for Research Projects: IAP 2015
 Reference Website: http://www.mit.edu/~6.s085/
