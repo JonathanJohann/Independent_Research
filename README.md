@@ -22,7 +22,7 @@ I personally love this guide to data science take home challenges. Often times, 
 ## Kaggle
 Reference Website: https://www.kaggle.com/
 
-After getting my hands dirty with reading "An Introduction to Statistical Learning with Applications in R" (Slowly making my way through "Elements of Statistical Learning when I have the time) and practicing with "A Collection of Data Science Take Home Challenges", this is a great next step and an incredibly well known site by data scientists. During periods when I have more time to take on some of the interesting projects on Kaggle, I'll post the stuff that I work on!
+After getting my hands dirty with reading "An Introduction to Statistical Learning with Applications in R" (Slowly making my way through "Elements of Statistical Learning" when I have the time) and practicing with "A Collection of Data Science Take Home Challenges", this is a great next step and an incredibly well known site by data scientists. During periods when I have more time to take on some of the interesting projects on Kaggle, I'll post the stuff that I work on!
 
 
 ## Details for contacting me:
