@@ -19,5 +19,11 @@ Reference Website: http://datascientistjobinterview.com/
 
 I personally love this guide to data science take home challenges. Often times, as aspiring data scientists, we're told to look at Kaggle and, as much I like Kaggle, I like how these Data Science challenges are short activities where you can wrap up your analysis faster. If you're a budding data scientist without a knack for sklearn and pandas, I'd definitely recommend starting with this!
 
+## Kaggle
+Reference Website: https://www.kaggle.com/
+
+After getting my hands dirty with reading "An Introduction to Statistical Learning with Applications in R" (Slowly making my way through "Elements of Statistical Learning when I have the time) and practicing with "A Collection of Data Science Take Home Challenges", this is a great next step and an incredibly well known site by data scientists. During periods when I have more time to take on some of the interesting projects on Kaggle, I'll post the stuff that I work on!
+
+
 ## Details for contacting me:
 If you have any questions or if you find that something is in fact incorrect, please feel free to reach out to me at jonjoh@mit.edu!
