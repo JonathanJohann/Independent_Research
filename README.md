@@ -12,6 +12,7 @@ Although 6.S085 does not appear as if it will be offered this IAP for the winter
 * Data Visualization via boxplots, histograms, kde/density plots.
 * Use of Kolmogorov-Smirnov Statistic.
 
+#### 6.S085 Statistics for Research Projects Problem Set 2.ipynb
 
 ## A Collection of Data Science Take Home Challenges
 Reference Website: http://datascientistjobinterview.com/
