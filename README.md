@@ -19,6 +19,9 @@ Reference Website: http://datascientistjobinterview.com/
 
 I personally love this guide to data science take home challenges. Often times, as aspiring data scientists, we're told to look at Kaggle and, as much I like Kaggle, I like how these Data Science challenges are short activities where you can wrap up your analysis faster. If you're a budding data scientist without a knack for sklearn and pandas, I'd definitely recommend starting with this!
 
+#### Spanish AB Test.ipynb
+* Determining Feature Importances using a Decision Tree Classifier via sklearn
+
 ## Kaggle
 Reference Website: https://www.kaggle.com/
 
