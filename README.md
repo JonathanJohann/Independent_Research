@@ -30,4 +30,5 @@ After getting my hands dirty with reading "An Introduction to Statistical Learni
 
 ## Details for contacting me:
 LinkedIn Profile: https://www.linkedin.com/in/jonathan-f-johannemann-5aa85894
+
 If you have any questions or if you find that something is in fact incorrect, please feel free to reach out to me at jonjoh@mit.edu!
