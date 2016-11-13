@@ -12,14 +12,14 @@ Although 6.S085 does not appear as if it will be offered this IAP for the winter
 * Data Visualization via boxplots, histograms, kde/density plots.
 * Use of Kolmogorov-Smirnov Statistic.
 
-#### 6.S085 Statistics for Research Projects Problem Set 2.ipynb
+#### 6.S085 Statistics for Research Projects Problem Set 2.ipynb (in progress)
 
 ## A Collection of Data Science Take Home Challenges
 Reference Website: http://datascientistjobinterview.com/
 
 I personally love this guide to data science take home challenges. Often times, as aspiring data scientists, we're told to look at Kaggle and, as much I like Kaggle, I like how these Data Science challenges are short activities where you can wrap up your analysis faster. If you're a budding data scientist without a knack for sklearn and pandas, I'd definitely recommend starting with this!
 
-#### Spanish AB Test.ipynb
+#### Spanish AB Test.ipynb (in progress)
 * Determining Feature Importances using a Decision Tree Classifier via sklearn.
 
 ## Kaggle
