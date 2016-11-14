@@ -1,7 +1,14 @@
-# Independent_Research
+# Jonathan's Independent Research
 
 ## Introduction
 Since the end of highschool, I've appreciated the practice of autodidacticism. Thus, I have finally decided to start my own repository of independent research projects to practice both implementation and theory. Hopefully, if you've stumbled upon my repository by accident or have come from LinkedIn, you find this page to be insightful in some way!
+
+## 15.0621 Data Mining: Finding the Data and Models that Create Value: Fall 2016
+
+For Fall Semester 2016 at MIT, I decided to take Data Mining with Roy Welsch. While the course normally calls for using JMP PRO, I was provided the option of using Python. As a result, I've done most of my analysis in Python as an applied data science exercise.
+
+#### 15.0621 Data Mining Assignment 1.ipynb
+
 
 ## 6.S085 Statistics for Research Projects: IAP 2015
 Reference Website: http://www.mit.edu/~6.s085/
