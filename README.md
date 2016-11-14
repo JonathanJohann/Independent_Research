@@ -8,6 +8,8 @@ Since the end of highschool, I've appreciated the practice of autodidacticism. T
 For Fall Semester 2016 at MIT, I decided to take Data Mining with Roy Welsch. While the course normally calls for using JMP PRO, I was provided the option of using Python. As a result, I've done most of my analysis in Python as an applied data science exercise.
 
 #### 15.0621 Data Mining Assignment 1.ipynb
+Jupyter Notebook: https://github.com/JonathanJohann/Independent_Research/blob/master/15.0621%20Data%20Mining%20Assignment%201.ipynb
+
 This assignment involved basic visualization and exploratory data analysis (very basic, it was the first assignment in the class) of car sales and laptop sales data.
 
 ## 6.S085 Statistics for Research Projects: IAP 2015
