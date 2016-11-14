@@ -24,6 +24,7 @@ Jupyter Notebook: https://git.io/vXXeJ
 * Use of Kolmogorov-Smirnov Statistic.
 
 #### 6.S085 Statistics for Research Projects Problem Set 2.ipynb (in progress)
+Jupyter Notebook: https://git.io/vXXen
 
 ## A Collection of Data Science Take Home Challenges
 Reference Website: http://datascientistjobinterview.com/
