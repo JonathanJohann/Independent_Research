@@ -3,6 +3,11 @@
 ## Introduction
 Since the end of highschool, I've appreciated the practice of autodidacticism. Thus, I have finally decided to start my own repository of independent research projects to practice both implementation and theory. Hopefully, if you've stumbled upon my repository by accident or have come from LinkedIn, you find this page to be insightful in some way!
 
+## Coming Soon!
+* Finishing up Spanish AB
+* Finishing up 6.S085 Statistics for Research Projects Problem Set 2
+* Just realized you can download Quantopian Research Jupyter Notebooks! Will start playing around with some stuff there and hopefully have some interesting content to show.
+
 ## 15.0621 Data Mining: Finding the Data and Models that Create Value: Fall 2016
 Reference Website: https://sloanbid.mit.edu/resources/15.062.pdf
 
