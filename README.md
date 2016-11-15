@@ -20,7 +20,7 @@ Jupyter Notebook: https://git.io/vXXev
 This assignment involved basic visualization and exploratory data analysis (very basic, it was the first assignment in the class) of car sales and laptop sales data.
 
 #### 15.0621 Data Mining Assignment 2.ipynb
-Jupyter Notebook:
+Jupyter Notebook: https://git.io/vXM5V
 
 This assignment involves looking at the Boston Housing dataset. 
 
