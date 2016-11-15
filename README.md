@@ -7,6 +7,7 @@ Since the end of highschool, I've appreciated the practice of autodidacticism. T
 * Finishing up Spanish AB
 * Finishing up 6.S085 Statistics for Research Projects Problem Set 2
 * Just realized you can download Quantopian Research Jupyter Notebooks! Will start playing around with some stuff there and hopefully have some interesting content to show.
+* Quandl looks fun!
 
 ## 15.0621 Data Mining: Finding the Data and Models that Create Value: Fall 2016
 Reference Website: https://sloanbid.mit.edu/resources/15.062.pdf
