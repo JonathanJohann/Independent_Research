@@ -25,7 +25,7 @@ Jupyter Notebook: https://git.io/vXM5V
 This assignment involves looking at the Boston Housing dataset. 
 
 * Multivariate Linear Regression, kNN
-* Normalization of features via MinMaxScaler, preprocessing.normalize
+* Normalization of features via MinMaxScaler, StandardScaler
 * Feature selection using SelectKBest
 * Usage of Pipeline
 * Parameter tuning with GridSearchCV
