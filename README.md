@@ -25,6 +25,10 @@ Jupyter Notebook: https://git.io/vXM5V
 This assignment involves looking at the Boston Housing dataset. 
 
 * Multivariate Linear Regression
+* Normalization of features via MinMaxScaler
+* Feature selection using SelectKBest
+* Usage of Pipeline
+* Parameter tuning with GridSearchCV
 
 ## 6.S085 Statistics for Research Projects: IAP 2015
 Reference Website: http://www.mit.edu/~6.s085/
