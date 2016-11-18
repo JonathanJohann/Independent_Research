@@ -1,0 +1,56 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Jonathan's Research
+description: "MIT Graduate Student. <br>Graduate Research Assistant at MIT's LIDS.<br />Quantitative Research Consultant at WorldQuant."
+owner: Jonathan Johannemann # or company name
+first_published: 2016 # if migrating another site, the year of your first publish
+email: jonjoh@mit.edu
+baseurl: "/Research" # the subpath of your site, e.g. /blog
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+social:
+  #twitter: https://twitter.com/<username>
+  github: https://github.com/JonathanJohann
+  linkedin-square: https://www.linkedin.com/in/jonathan-f-johannemann-5aa85894
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed

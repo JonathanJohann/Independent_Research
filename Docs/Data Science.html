@@ -1,0 +1,39 @@
+---
+layout: page
+title: Data Science
+---
+	<h3>Data Science</h3>
+	<p>Topics Used So Far:
+		<ol>
+			<li>Packages</li>
+				<ul>
+				<li>Pandas,Numpy,Matplotlib</li>		
+				</ul>
+			<li>Data Scraping</li>
+			<li>Data Warehousing</li>
+			<li>Data Cleaning/Wrangling</li>
+			<li>Data Visualization</li>
+				<ul>
+				<li>Line Plots, CDF Plots, Boxplots, Histograms, Bar Charts</li>
+				<li>Stacked Bar Charts</li>
+				</ul>
+			<li>Feature Selection</li>
+				<ul>
+				<li>SelectKBest</li>
+				</ul>
+			<li>Model Selection</li>
+				<ul>
+				<li>Multivariate Linear Regression</li>
+				<li>Naive Bayes</li>
+				<li>KNeighborsRegressor</li>
+				</ul>
+			<li>Cross Validation and Model Tuning</li>
+		</ol>
+	<p/>
+	<ul>
+	  {% for post in site.posts %}
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
